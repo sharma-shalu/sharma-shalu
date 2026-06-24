@@ -1,4 +1,4 @@
-# Hi 👋 I'm Gaurav
+# Hi 👋 I'm Shalu
 
 🚀 Data Science Student
 💻 Passionate about Machine Learning, Data Analysis  
@@ -39,11 +39,11 @@
 
 ## 📌 Projects
 
-### 🏥 Heart Disease Prediction Model
-*   **Tech Stack:** Python, Machine Learning, Flask
-*   **Description:** Developed a predictive model using a cardio dataset to identify heart disease risks and deployed it using the Flask framework.
+### 🏥 Face Recognition Attendance Sytem.
+*   **Tech Stack:** Python, Respberrypi, Excel
+*   **Description:** This is a Raspberry Pi-based Attendance Management System. It uses a display screen to show system status and attendance records. The system is designed to automatically record and manage attendance data, making the process faster, more accurate, and efficient. It can be used in schools, colleges, and offices for attendance monitoring.
 *   **Key Skills:** Data Preprocessing, Model Deployment, Python.
-*   [View Project Repository](https://github.com/Gauravsingh958)
+  
 
 ---
 
@@ -72,15 +72,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Gauravsingh958/Gauravsingh958/output/snake.svg)
-
----
-
 ## 📫 Connect with Me
 
-- 📧 Email: gauravsirari890@gmail.com
+- 📧 Email: shalusharma080804@gmail.com
 
 ---
 
