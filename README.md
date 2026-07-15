@@ -24,10 +24,7 @@
 
 <br>
 
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp; ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Green?style=for-the-badge) &nbsp; ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) &nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp; ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 📊 Data & AI
-![Machine Learning](https://img.shields.io/badge/Machine--Learning-3776AB?style=for-the-badge) &nbsp; ![Data Analysis](https://img.shields.io/badge/Data--Analysis-4479A1?style=for-the-badge) &nbsp; ![Deep Learning](https://img.shields.io/badge/Deep--Learning-E34F26?style=for-the-badge) &nbsp; ![Statistics](https://img.shields.io/badge/Statistics-DarkBlue?style=for-the-badge)
+(https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp; ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Green?style=for-the-badge) &nbsp; ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) &nbsp; (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp; (https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🧠 Core Concepts
 ![Web Scraping](https://img.shields.io/badge/Web--Scraping-Teal?style=for-the-badge) &nbsp; ![File Handling](https://img.shields.io/badge/File--Handling-Grey?style=for-the-badge) &nbsp; ![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-Orange?style=for-the-badge) &nbsp; ![EDA](https://img.shields.io/badge/EDA%20(Exploratory%20Data)-Purple?style=for-the-badge)
