@@ -38,9 +38,18 @@
 ### 🏥 Face Recognition Attendance Sytem.
 *   **Tech Stack:** Python, Respberrypi, Excel
 *   **Description:** This is a Raspberry Pi-based Attendance Management System. It uses a display screen to show system status and attendance records. The system is designed to automatically record and manage attendance data, making the process faster, more accurate, and efficient. It can be used in schools, colleges, and offices for attendance monitoring.
-*   **Key Skills:** Data Preprocessing, Model Deployment, Python.
-  
+*   **Key Skills:** Data Preprocessing, Model Deployment, Python
 
+### 🏥 SwiftMarket Analysis.
+*   **Tech Stack:** SQL, Power BI
+*   **Description:**  Developed a comprehensive market analysis tool using SQL and Python to evaluate sales data and customer behavior.
+
+### 🏥 Economics Sales Dashboard.
+*   **Tech Stack:** Power BI
+*   **Description:** Developed an interactive Power BI dashboard to analyze sales performance,
+            revenue, profit, KPIs, and business trends using data visualization.
+
+  
 ---
 
 👉 More projects coming soon...
